@@ -1,5 +1,22 @@
+# Ben Samuelson's First CS193 Homework
+
+**Favorite things about Purdue 193**
+- Learning how to use github
+- Learning how to use a terminal
+- Not a hard class (so far at least)
+
+
+```
+public class Hello {
+  public static void main(Str[] args) {
+    System.out.println("Hello World!");
+  }
+}
+```
+
+### The guide that was already there vvv
+
 ## Welcome to GitHub Pages
-# This took a frustratingly long time to make this website work for seemingly no reason
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,14 +45,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-```
-public class Hello {
-  public static void main(Str[] args) {
-    System.out.println("Hello World!");
-  }
-}
-```
 
 ### Jekyll Themes
 
